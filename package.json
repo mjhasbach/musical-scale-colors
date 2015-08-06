@@ -1,0 +1,20 @@
+{
+  "name": "musical-scale-colors",
+  "version": "1.0.0",
+  "description": "Musical notes mapped to hexadecimal colors",
+  "license": "MIT",
+  "homepage": "https://github.com/mjhasbach/musical-scale-colors",
+  "keywords": [
+    "music",
+    "scale",
+    "note",
+    "color",
+    "palette"
+  ],
+  "repository": "mjhasbach/musical-scale-colors",
+  "author": {
+    "name": "Matthew Hasbach",
+    "email": "hasbach.git@gmail.com",
+    "url": "https://github.com/mjhasbach"
+  }
+}
