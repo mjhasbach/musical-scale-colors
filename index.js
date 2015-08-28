@@ -11,130 +11,130 @@
     // http://rhythmiclight.com/archives/ideas/colorscales.html
     return {
         louisBertrandCastel: {
-            'C': 0x1C0D82,  // blue
-            'C#': 0x1B9081, // blue-green
-            'D': 0x149033,  // green
-            'D#': 0x709226, // olive green
-            'E': 0xF5F43C,  // yellow
-            'F': 0xF5D23B,  // yellow-orange
-            'F#': 0xF88010, // orange
-            'G': 0xFA0B0C,  // red
-            'G#': 0xA00C09, // crimson
-            'A': 0xD71386,  // violet
-            'A#': 0x4B0E7D, // agate
-            'B': 0x7F087C   // indigo
+            0: 0x1C0D82,  // blue
+            1: 0x1B9081,  // blue-green
+            2: 0x149033,  // green
+            3: 0x709226,  // olive green
+            4: 0xF5F43C,  // yellow
+            5: 0xF5D23B,  // yellow-orange
+            6: 0xF88010,  // orange
+            7: 0xFA0B0C,  // red
+            8: 0xA00C09,  // crimson
+            9: 0xD71386,  // violet
+            10: 0x4B0E7D, // agate
+            11: 0x7F087C  // indigo
         },
         dDJameson: {
-            'C': 0xFA0B0C,  // red
-            'C#': 0xF44712, // red-orange
-            'D': 0xF88010,  // orange
-            'D#': 0xF5D23B, // orange-yellow
-            'E': 0xF5F43C,  // yellow
-            'F': 0x149033,  // green
-            'F#': 0x1B9081, // green-blue
-            'G': 0x1C0D82,  // blue
-            'G#': 0x4B0E7D, // blue-purple
-            'A': 0x7F087C,  // purple
-            'A#': 0xA61586, // purple-violet
-            'B': 0xD71285   // violet
+            0: 0xFA0B0C,  // red
+            1: 0xF44712,  // red-orange
+            2: 0xF88010,  // orange
+            3: 0xF5D23B,  // orange-yellow
+            4: 0xF5F43C,  // yellow
+            5: 0x149033,  // green
+            6: 0x1B9081,  // green-blue
+            7: 0x1C0D82,  // blue
+            8: 0x4B0E7D,  // blue-purple
+            9: 0x7F087C,  // purple
+            10: 0xA61586, // purple-violet
+            11: 0xD71285  // violet
         },
         theodorSeemann: {
-            'C': 0x6A1C1C,  // carmine
-            'C#': 0xFA0B0C, // scarlet
-            'D': 0xFF7D05,  // orange
-            'D#': 0xFCD533, // yellow-orange
-            'E': 0xF5F43C,  // yellow
-            'F': 0x169034,  // green
-            'F#': 0x1B9081, // green blue
-            'G': 0x1C0D82,  // blue
-            'G#': 0x7F087C, // indigo
-            'A': 0xD71386,  // violet
-            'A#': 0x6A1C1C, // brown
-            'B': 0x070707   // black
+            0: 0x6A1C1C,  // carmine
+            1: 0xFA0B0C,  // scarlet
+            2: 0xFF7D05,  // orange
+            3: 0xFCD533,  // yellow-orange
+            4: 0xF5F43C,  // yellow
+            5: 0x169034,  // green
+            6: 0x1B9081,  // green blue
+            7: 0x1C0D82,  // blue
+            8: 0x7F087C,  // indigo
+            9: 0xD71386,  // violet
+            10: 0x6A1C1C, // brown
+            11: 0x070707  // black
         },
         aWallaceRimington: {
-            'C': 0xFA0B0C,  // deep red
-            'C#': 0xA00C09, // crimson
-            'D': 0xF44712,  // orange-crimson
-            'D#': 0xF88010, // orange
-            'E': 0xF5F43C,  // yellow
-            'F': 0x709226,  // yellow-green
-            'F#': 0x149033, // green
-            'G': 0x26A680,  // blueish green
-            'G#': 0x1B9081, // blue-green
-            'A': 0x7F087C,  // indigo
-            'A#': 0x1C0D82, // deep blue
-            'B': 0xD71386   // violet
+            0: 0xFA0B0C,  // deep red
+            1: 0xA00C09,  // crimson
+            2: 0xF44712,  // orange-crimson
+            3: 0xF88010,  // orange
+            4: 0xF5F43C,  // yellow
+            5: 0x709226,  // yellow-green
+            6: 0x149033,  // green
+            7: 0x26A680,  // blueish green
+            8: 0x1B9081,  // blue-green
+            9: 0x7F087C,  // indigo
+            10: 0x1C0D82, // deep blue
+            11: 0xD71386  // violet
         },
         hHelmholtz: {
-            'C': 0xF5F43C,  // yellow
-            'C#': 0x149033, // green
-            'D': 0x1B9081,  // greenish blue
-            'D#': 0x1C5BA0, // cayan-blue
-            'E': 0x7F087C,  // indigo blue
-            'F': 0xD71386,  // violet
-            'F#': 0x9D0E55, // end of red
-            'G': 0xFA0B0C,  // red
-            'G#': 0xD32C0A, // red
-            'A': 0xD32C0A,  // red
-            'A#': 0xD91951, // red orange
-            'B': 0xF17A0F   // orange
+            0: 0xF5F43C,  // yellow
+            1: 0x149033,  // green
+            2: 0x1B9081,  // greenish blue
+            3: 0x1C5BA0,  // cayan-blue
+            4: 0x7F087C,  // indigo blue
+            5: 0xD71386,  // violet
+            6: 0x9D0E55,  // end of red
+            7: 0xFA0B0C,  // red
+            8: 0xD32C0A,  // red
+            9: 0xD32C0A,  // red
+            10: 0xD91951, // red orange
+            11: 0xF17A0F  // orange
         },
         aScriabin: {
-            'C': 0xFA0B0C,  // red
-            'C#': 0xD71386, // violet
-            'D': 0xF5F43C,  // yellow
-            'D#': 0x5A5685, // steely with the glint of metal
-            'E': 0x1C5BA0,  // pearly blue the shimmer of moonshine
-            'F': 0xA00C09,  // dark red
-            'F#': 0x1C0D82, // bright blue
-            'G': 0xF88010,  // rosy orange
-            'G#': 0x7F0A7C, // purple
-            'A': 0x149033,  // green
-            'A#': 0x5A5685, // steely with a glint of metal
-            'B': 0x1C5BA0   // pearly blue the shimmer of moonshine
+            0: 0xFA0B0C,  // red
+            1: 0xD71386,  // violet
+            2: 0xF5F43C,  // yellow
+            3: 0x5A5685,  // steely with the glint of metal
+            4: 0x1C5BA0,  // pearly blue the shimmer of moonshine
+            5: 0xA00C09,  // dark red
+            6: 0x1C0D82,  // bright blue
+            7: 0xF88010,  // rosy orange
+            8: 0x7F0A7C,  // purple
+            9: 0x149033,  // green
+            10: 0x5A5685, // steely with a glint of metal
+            11: 0x1C5BA0  // pearly blue the shimmer of moonshine
         },
         aBernardKlein: {
-            'C': 0xC40A09,  // dark red
-            'C#': 0xFA0B0C, // red
-            'D': 0xF44712,  // red orange
-            'D#': 0xF88010, // orange
-            'E': 0xF5F43C,  // yellow
-            'F': 0xBCE039,  // yellow green
-            'F#': 0x149033, // green
-            'G': 0x1B9081,  // blue-green
-            'G#': 0x1C0D82, // blue
-            'A': 0x781887,  // blue violet
-            'A#': 0xD71386, // violet
-            'B': 0x9D0E55   // dark violet
+            0: 0xC40A09,  // dark red
+            1: 0xFA0B0C,  // red
+            2: 0xF44712,  // red orange
+            3: 0xF88010,  // orange
+            4: 0xF5F43C,  // yellow
+            5: 0xBCE039,  // yellow green
+            6: 0x149033,  // green
+            7: 0x1B9081,  // blue-green
+            8: 0x1C0D82,  // blue
+            9: 0x781887,  // blue violet
+            10: 0xD71386, // violet
+            11: 0x9D0E55  // dark violet
         },
         iJBelmont: {
-            'C': 0xFA0B0C,  // red
-            'C#': 0xF44712, // red-orange
-            'D': 0xF88010,  // orange
-            'D#': 0xF6D111, // yellow-orange
-            'E': 0xF5F43C,  // yellow
-            'F': 0xBCE039,  // yellow-green
-            'F#': 0x138F32, // green
-            'G': 0x1B9081,  // blue-green
-            'G#': 0x1C0D82, // blue
-            'A': 0xA51585,  // blue-violet
-            'A#': 0xD71386, // violet
-            'B': 0xAD0E48   // red-violet
+            0: 0xFA0B0C,  // red
+            1: 0xF44712,  // red-orange
+            2: 0xF88010,  // orange
+            3: 0xF6D111,  // yellow-orange
+            4: 0xF5F43C,  // yellow
+            5: 0xBCE039,  // yellow-green
+            6: 0x138F32,  // green
+            7: 0x1B9081,  // blue-green
+            8: 0x1C0D82,  // blue
+            9: 0xA51585,  // blue-violet
+            10: 0xD71386, // violet
+            11: 0xAD0E48  // red-violet
         },
         sZieverink: {
-            'C': 0xBCE039,  // yellow/green
-            'C#': 0x149033, // green
-            'D': 0x1B9081,  // blue/green
-            'D#': 0x1C0D82, // blue
-            'E': 0x7F087C,  // indigo
-            'F': 0xD71386,  // violet
-            'F#': 0x6F0D45, // ultra violet
-            'G': 0xA00C09,  // infra red
-            'G#': 0xFA0B0C, // red
-            'A': 0xF88010,  // orange
-            'A#': 0xEDF087, // yellow/white
-            'B': 0xF5F43C   // yellow
+            0: 0xBCE039,  // yellow/green
+            1: 0x149033,  // green
+            2: 0x1B9081,  // blue/green
+            3: 0x1C0D82,  // blue
+            4: 0x7F087C,  // indigo
+            5: 0xD71386,  // violet
+            6: 0x6F0D45,  // ultra violet
+            7: 0xA00C09,  // infra red
+            8: 0xFA0B0C,  // red
+            9: 0xF88010,  // orange
+            10: 0xEDF087, // yellow/white
+            11: 0xF5F43C  // yellow
         }
     };
 }));

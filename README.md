@@ -1,3 +1,3 @@
 # musical-scale-colors
 
-Musical notes mapped to hexadecimal colors
+Musical pitch classes (chromas) mapped to hexadecimal colors
